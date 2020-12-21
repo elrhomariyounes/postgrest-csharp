@@ -1,0 +1,440 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/.documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Attributes.ColumnAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Attributes.ColumnAttribute.html",
+          "hash": "RJ0edZbX+0CEXEbZVgBotw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Attributes.PrimaryKeyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Attributes.PrimaryKeyAttribute.html",
+          "hash": "HuP4rAdpAko83yIWyFTMdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Attributes.TableAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Attributes.TableAttribute.html",
+          "hash": "420mzI4p/5Fu5PlWpyeZ0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Attributes.html",
+          "hash": "Vf58tx/tZCKiKhBtRQlTCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Client.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Client.html",
+          "hash": "SaApOzWp0yMWy8My1rLUIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.ClientAuthorization.AuthorizationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.ClientAuthorization.AuthorizationType.html",
+          "hash": "6iTlDWptMT9bXbskudXRtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.ClientAuthorization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.ClientAuthorization.html",
+          "hash": "uIAHOE2ABZIkgPosJ/TpKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.ClientOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.ClientOptions.html",
+          "hash": "D2vTzSQeL3Jf9FWVq6xA5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Constants.NullPosition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Constants.NullPosition.html",
+          "hash": "blFRQ47JGkuT92dMHLZoOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Constants.Operator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Constants.Operator.html",
+          "hash": "bgs6FLtn+dWkSg31dp0zIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Constants.Ordering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Constants.Ordering.html",
+          "hash": "BLS/ccXY0iHftMGxWsw05A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Constants.html",
+          "hash": "LPXnbRpx3r7rLXyXJOGx5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Extensions.EnumExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Extensions.EnumExtensions.html",
+          "hash": "TXEA1H6p8rLRLJVUQwGCcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Extensions.RangeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Extensions.RangeExtensions.html",
+          "hash": "HbHBzXIepGjHtOYFdwML3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Extensions.html",
+          "hash": "dt0mz8dOPhWaOwWbz43tpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.FullTextSearchConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.FullTextSearchConfig.html",
+          "hash": "ZObDHUQzEFh4PkBXZHnSyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.InsertOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.InsertOptions.html",
+          "hash": "f0/HoQ3d3nC+nXzmyU5fDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Models.BaseModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Models.BaseModel.html",
+          "hash": "ChJdah6b9YixnM+vMJNJ3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Models.html",
+          "hash": "MAO4S1nwQBbhVSzvDrnMxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.QueryFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.QueryFilter.html",
+          "hash": "huzFYYarPl3LSjQ8Wg8GUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.QueryOrderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.QueryOrderer.html",
+          "hash": "uUGzg3aabcI8fY8gimVD4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.RequestException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.RequestException.html",
+          "hash": "D0xwEqYvnoBOu6/Q6ukLAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Responses.BaseResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Responses.BaseResponse.html",
+          "hash": "S9mu1s20FnCR7zMDEVuE/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Responses.ErrorResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Responses.ErrorResponse.html",
+          "hash": "LFU8MRJK9RAP1ZHSnFDKeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Responses.ModeledResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Responses.ModeledResponse-1.html",
+          "hash": "BtablsqmD5qHeBPlWeosog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Responses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Responses.html",
+          "hash": "8CiIn/ns5BLOi4jSjo9xsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.Table-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.Table-1.html",
+          "hash": "chMzeHYesV9WHRL3cvOoYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Postgrest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Postgrest.html",
+          "hash": "3miC88qgIDHs6HD4ggIrYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "uS2ecN/1ls2crXNRTEYSYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "jH2YwCwiPR205321rgSnjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "WKxo61bgUI8c4Fh61x+udA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "zY1V+pupLZozODrXqPhyFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 28,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
