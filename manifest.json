@@ -57,31 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Postgrest.Client.html",
-          "hash": "nq5xVluPeyQ54Ft8DD/hFA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Postgrest.ClientAuthorization.AuthorizationType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Postgrest.ClientAuthorization.AuthorizationType.html",
-          "hash": "JvyB3D1d8W8VL660kRW7Ig=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Postgrest.ClientAuthorization.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Postgrest.ClientAuthorization.html",
-          "hash": "hyPfSeS0qje/eGVrl4TVvg=="
+          "hash": "yZOkp8V9OI9BVEZC+FWmOQ=="
         }
       },
       "is_incremental": false,
@@ -213,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Postgrest.Models.BaseModel.html",
-          "hash": "FDxFkEFDWk7CYpXTtcHBWg=="
+          "hash": "C0r1BbjswEI3+tWLM5ViPQ=="
         }
       },
       "is_incremental": false,
@@ -261,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Postgrest.RequestException.html",
-          "hash": "7Ib3Vjq6Wlu1GY12Z+PWPw=="
+          "hash": "untSsEaGtBL/zWfhCj//ww=="
         }
       },
       "is_incremental": false,
@@ -321,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Postgrest.Table-1.html",
-          "hash": "PtbI7/6j31b1QWQ5itWiVw=="
+          "hash": "BEmUqRhKUbudOu+sruui9A=="
         }
       },
       "is_incremental": false,
@@ -333,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Postgrest.html",
-          "hash": "IR1zHfIiAdtIcnEDyb2aoQ=="
+          "hash": "VwE6EpY/VkzmBhsAha5GBA=="
         }
       },
       "is_incremental": false,
@@ -357,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "VsgbNVd+ZIrQyAnchdFv4A=="
+          "hash": "vh5lNn/sVpPxX4yOMLvb2Q=="
         }
       },
       "is_incremental": false,
@@ -408,7 +384,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 28,
+          "total_file_count": 26,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
